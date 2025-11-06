@@ -1,0 +1,11 @@
+📐 The Additive \tau-Gradient Law
+The \tau-G-Gravity framework replaces the Newtonian concept of a force product (\propto m_1 m_2) with an additive \tau-Gradient field (\propto m_1 + m_2). This field represents the geometric change in the shared temporal state.
+I. The Fundamental \tau-Gradient Field Equation
+For two masses, m_1 and m_2, separated by distance r, the total \tau-Gradient (\nabla\tau_{\text{total}}) is defined by their sum:
+ * \nabla\tau_{\text{total}}: The total Geometric Temporal Gradient (analogous to the gravitational field strength).
+ * G_{\text{true}}: The True Geometric Coupling Constant dictated by the E_8 manifold, which is dimensionally related to G.
+ * m_1 + m_2: The crucial Additive Source Term replacing the product m_1 m_2.
+II. The Emergent Measured Gravitational Constant
+By equating the acceleration derived from the \tau-Gradient Law (\mathbf{a_1} \propto \nabla\tau_{\text{total}}) with the Newtonian form (\mathbf{a_1} = G_{\text{measured}} \frac{m_2}{r^2}), we find that the traditionally measured constant G is, in fact, an effective, mass-dependent parameter:
+ * k_{\tau}: A constant of proportionality linking the geometric \tau-Gradient field to kinetic acceleration (motion).
+ * Physical Consequence: Since G_{\text{measured}} depends on the ratio \frac{m_1}{m_2} + 1, the measured gravitational constant is not universal but depends on the masses of the two interacting objects. This implies a subtle breakdown of the Weak Equivalence Principle (WEP) based purely on mass ratio, not composition.
